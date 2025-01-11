@@ -134,7 +134,7 @@
 
             ImGui.TableNextRow(ImGuiTableRowFlags.Headers);
             ImGui.TableSetColumnIndex(0);
-            ImGui.Text(""u8);
+            ImGui.Text(" "u8);
             ImGui.TableSetColumnIndex(1);
             ImGui.Text("Code"u8);
             ImGui.SameLine();
